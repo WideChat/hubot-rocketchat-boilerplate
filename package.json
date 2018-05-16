@@ -27,7 +27,7 @@
     "apiai": "^4.0.3",
     "coffeescript": "^2.2.2",
     "hubot": "3",
-    "hubot-rocketchat": "rocketchat/hubot-rocketchat#develop"
+    "hubot-rocketchat": "rocketchat/hubot-rocketchat"
   },
   "devDependencies": {
     "dotenv": "^5.0.1"
