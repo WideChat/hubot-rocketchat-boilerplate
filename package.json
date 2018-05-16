@@ -25,7 +25,7 @@
   "dependencies": {
     "@rocket.chat/sdk": "^0.1.0",
     "apiai": "^4.0.3",
-    "hubot-google-translate",
+    "hubot-google-translate": "0.2.1",
     "coffeescript": "^2.2.2",
     "hubot": "3",
     "hubot-rocketchat": "rocketchat/hubot-rocketchat"
